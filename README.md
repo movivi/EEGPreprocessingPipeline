@@ -1,6 +1,6 @@
 # EEGPreprocessingPipeline
 
-This repository contains **MATLAB** scripts I compiled as part of one of the analysis teams for [**EEGManyPipelines**](https://www.eegmanypipelines.org)
+This repository contains **MATLAB** scripts and relevant csv/txt files I compiled as part of one of the analysis teams for [**EEGManyPipelines**](https://www.eegmanypipelines.org)
 
 For testing the reproducibility of my scripts, I provide 2 minimally processed EEG datasets (in **EEGLAB** compatible formats: *.set* and *.fdt*) [<ins>**here**</ins>](https://www.dropbox.com/sh/8qf0adaveg65j1z/AAAw10gHazrtStDz9nQoCwfAa?dl=0)
 
