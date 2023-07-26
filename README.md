@@ -7,7 +7,8 @@ For testing the reproducibility of my scripts, I provide 2 minimally processed E
 ## EEG Data Overview (For more info, please refer to this [documentation](https://www.dropbox.com/scl/fi/a70rq72ntqn55dx31pj71/EMP_dataset_documentation.pdf?rlkey=2zc65hp4wl0ochlj3415n2vx4&dl=0))
 1. Total channels: 72
 2. Channel Number and Label (Displaying 70 channels; Ch71, Ch72 computed from other channels):
-![image](https://github.com/movivi/EEGPreprocessingPipeline/assets/46511747/e015d5b0-700a-406b-a8c2-fa91deb9924f)
+![image](https://github.com/movivi/EEGPreprocessingPipeline/assets/46511747/0d8ca09a-2d2e-4b29-bc6e-76299f07fa2e)
+
 3. Ch71: vertical EOG (computed by subtracting infra-orbital channels IO1 and IO2 (Ch67, Ch68) from the corresponding super-orbital channels FP1 and FP2 (Ch1, Ch34)
 4. Ch72: horizontal EOG (computed by subtracting right channel Afp10 (Ch66) from the corresponding left channel Afp9 (Ch65)
 5. Referenced to channel POz (Ch30)
